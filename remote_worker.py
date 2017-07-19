@@ -2,8 +2,6 @@
 Remote workers code to fetch data from SQS Request Queue
 and submit response back to SQS. Uses Python BOTO3 library
 
-Sunny Changediya
-
 """
 
 import time
