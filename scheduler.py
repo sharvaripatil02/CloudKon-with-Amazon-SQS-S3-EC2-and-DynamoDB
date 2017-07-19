@@ -3,8 +3,6 @@ Scheduler to perform scheduling of local and back end workers
 this acts as primary route to local and back-end remote workers
 performs fetching JSON data, executing tasks, and sending response back to client
 It uses Python BOTO3 library
-
-Sunny Changediya
 """
 
 
