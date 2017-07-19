@@ -4,7 +4,6 @@ Animoto clone to create video stream from Image file
 it uses BOTO Python and FFMPEG library to create video 
 streams 
 
-Sunny Changediya 
 """ 
 
 import urllib 
